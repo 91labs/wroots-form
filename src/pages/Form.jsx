@@ -149,7 +149,7 @@ const Form = () => {
               htmlFor="min_exp"
               className="block text-lg font-medium text-gray-900 "
             >
-              Min. Experience
+              Min Exp(Years, eg: 5)
             </label>
             <input
               type="number"
@@ -167,7 +167,7 @@ const Form = () => {
               htmlFor="max_exp"
               className="block text-lg font-medium text-gray-900 "
             >
-              Max. Experience
+              Max Exp. (Years, eg: 7)
             </label>
             <input
               type="number"
@@ -177,7 +177,7 @@ const Form = () => {
               onChange={(e) =>
                 setFormData({ ...formData, maxExperience: e.target.value })
               }
-              placeholder="Maximum Experience"
+              placeholder="Maximum Experience(in Years)"
               required
             />
           </div>
@@ -186,7 +186,7 @@ const Form = () => {
               htmlFor="min_ctc"
               className="block text-lg font-medium text-gray-900 "
             >
-              Min. CTC
+              Min. CTC ( in Lakhs eg: 500000)
             </label>
             <input
               type="number"
@@ -196,7 +196,7 @@ const Form = () => {
               onChange={(e) =>
                 setFormData({ ...formData, minSalary: e.target.value })
               }
-              placeholder="Minimum CTC"
+              placeholder="500000"
               required
             />
           </div>
@@ -205,7 +205,7 @@ const Form = () => {
               htmlFor="max_ctc"
               className="block text-lg font-medium text-gray-900 "
             >
-              Max. CTC
+              Max. CTC( in Lakhs eg: 700000)
             </label>
             <input
               type="number"
