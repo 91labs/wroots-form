@@ -2,6 +2,7 @@ import React from "react";
 import Form from "./pages/Form";
 import JobIcon from './images/logo.jpeg';
 import { ToastContainer } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (

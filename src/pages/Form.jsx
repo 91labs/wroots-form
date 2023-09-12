@@ -8,9 +8,12 @@ import companyData from "../data/companies.json";
 import categoryData from "../data/category.json";
 import locationData from "../data/location.json";
 import { LoaderSpin } from "../components/Loader";
-import 'react-toastify/dist/ReactToastify.css';
+import ReactQuill from 'react-quill';
+import 'react-quill/dist/quill.snow.css';
 
 const Form = () => {
+  const [brief,setBrief] = useState('');
+
   const [skillSet, setSkillSet] = useState([]);
   const [companySet, setCompanySet] = useState([]);
   const [categorySet, setCategorySet] = useState([]);
@@ -225,16 +228,7 @@ const Form = () => {
             >
               Briefing
             </label>
-            <textarea
-              id="brief"
-              value={formData.briefing}
-              className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
-              onChange={(e) =>
-                setFormData({ ...formData, briefing: e.target.value })
-              }
-              placeholder="Write Details About the Job."
-              required
-            />
+            <ReactQuill theme="snow" value={formData.briefing} onChange={(e) => setFormData({...formData, briefing : e})} />
           </div>
         </div>
         <div className="flex flex-row gap-4 items-center">
