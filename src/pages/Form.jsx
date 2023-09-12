@@ -5,14 +5,17 @@ import { createJob } from "../hooks/createjob";
 import { toast } from "react-toastify";
 import skillData from "../data/skills.json";
 import companyData from "../data/companies.json";
+import categoryData from "../data/category.json";
 import { LoaderSpin } from "../components/Loader";
 
 const Form = () => {
   const [skillSet, setSkillSet] = useState([]);
   const [companySet, setCompanySet] = useState([]);
+  const [categorySet, setCategorySet] = useState([]);
   const [selectedSkills, setSelectedSkills] = useState();
   const [selectedCompany, setSelectedCompany] = useState();
   const [selectedPlace, setSelectedPlace] = useState();
+  const [selectedCategory, setSelectedCategory] = useState();
 
   const {mutate, isLoading} = useMutation(createJob,{
     onSuccess : () => toast.success("Job Created!"),
@@ -51,9 +54,16 @@ const Form = () => {
       value: company,
     }));
 
+    const transformedCategorySet = categoryData.map((cat) => ({
+      label : cat.name,
+      value : cat
+    }))
+
     setSkillSet(transformedSkillSet);
 
     setCompanySet(transformedCompanySet);
+
+    setCategorySet(transformedCategorySet);
   }, []);
 
   const resetForm = () => {
@@ -244,19 +254,17 @@ const Form = () => {
             >
               Category
             </label>
-            <select
-              id="category"
-              onChange={(e) =>
-                setFormData({ ...formData, categoryId: e.target.value })
-              }
-              className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
-            >
-              <option selected>Select Category</option>
-              <option value={1}>United States</option>
-              <option value={2}>Canada</option>
-              <option value={3}>France</option>
-              <option value={4}>Germany</option>
-            </select>
+            <Select
+              options={categorySet}
+              className="rounded-lg"
+              placeholder="Select Category"
+              value={selectedCategory}
+              onChange={(data) => {
+                const selectedValues = data.value.id;
+                setSelectedCategory(data);
+                setFormData({ ...formData, categoryId: selectedValues });
+              }}
+            />
           </div>
         </div>
         <div>
@@ -294,7 +302,7 @@ const Form = () => {
               placeholder="Select Company"
               value={selectedCompany}
               onChange={(data) => {
-                const selectedValues = data.value;
+                const selectedValues = data.value.id;
                 setSelectedCompany(data);
                 setFormData({ ...formData, companyId: selectedValues });
               }}
