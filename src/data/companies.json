@@ -1,0 +1,862 @@
+[
+ {
+   "id": 1,
+   "name": "Tech Mahindra",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-11 13:06:44",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-11 13:06:44"
+ },
+ {
+   "id": 2,
+   "name": "Wipro Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-12 04:00:01",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-12 04:00:01"
+ },
+ {
+   "id": 3,
+   "name": "i-Exceed",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-18 11:06:25",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-18 11:06:25"
+ },
+ {
+   "id": 4,
+   "name": "HCL Technology",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-21 09:54:51",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-21 09:54:51"
+ },
+ {
+   "id": 5,
+   "name": "SmartCoin",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-23 08:56:31",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-23 08:56:31"
+ },
+ {
+   "id": 6,
+   "name": "Vertafore",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-25 05:30:37",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-25 05:30:37"
+ },
+ {
+   "id": 7,
+   "name": "Sapient",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-25 08:46:21",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-25 08:46:21"
+ },
+ {
+   "id": 8,
+   "name": "Azuga Telematics Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 05:26:47",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 05:26:47"
+ },
+ {
+   "id": 9,
+   "name": "Cashfree Payments India Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 05:52:15",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 05:52:15"
+ },
+ {
+   "id": 10,
+   "name": "iScholar Knowledge Services Pvt Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 05:57:09",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 05:57:09"
+ },
+ {
+   "id": 11,
+   "name": "Tech Mahindra Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 06:11:31",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 06:11:31"
+ },
+ {
+   "id": 12,
+   "name": "Nobroker Technologies Solutions Pvt. Ltd.",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 08:57:34",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 08:57:34"
+ },
+ {
+   "id": 13,
+   "name": " 24/7 Customer Private Limited ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-26 09:01:49",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-26 09:01:49"
+ },
+ {
+   "id": 14,
+   "name": "FADV",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 11:45:18",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 11:45:18"
+ },
+ {
+   "id": 15,
+   "name": "First Advantage Global Operating Center Pvt Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 12:17:02",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 12:17:02"
+ },
+ {
+   "id": 16,
+   "name": "Hutchinson & Co. (India) Pvt. Ltd.",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 12:20:18",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 12:20:18"
+ },
+ {
+   "id": 17,
+   "name": "Telligent Support LLP",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 12:23:45",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 12:23:45"
+ },
+ {
+   "id": 18,
+   "name": "Cogent E Services Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 12:41:12",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 12:41:12"
+ },
+ {
+   "id": 19,
+   "name": "Firstsource Solutions Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-06-29 12:43:47",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-06-29 12:43:47"
+ },
+ {
+   "id": 20,
+   "name": "TechSophy",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-07-04 06:23:59",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-07-04 06:23:59"
+ },
+ {
+   "id": 21,
+   "name": "Novocura Tech Health Services Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-07-15 09:40:16",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-07-15 09:40:16"
+ },
+ {
+   "id": 22,
+   "name": "ThinkVidya Learning Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-07-27 11:30:45",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-07-27 11:30:45"
+ },
+ {
+   "id": 23,
+   "name": "Genisys",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-08-09 12:42:47",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-08-09 12:42:47"
+ },
+ {
+   "id": 24,
+   "name": "Navi Insurance",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-08-09 12:49:41",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-08-09 12:49:41"
+ },
+ {
+   "id": 25,
+   "name": "Wakefit innovations Pvt Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-08-09 12:53:24",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-08-09 12:53:24"
+ },
+ {
+   "id": 26,
+   "name": "Supr Infotech Solutions private limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-08-09 13:03:04",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-08-09 13:03:04"
+ },
+ {
+   "id": 27,
+   "name": "Amica Investment Advisers Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-08-24 13:02:53",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-08-24 13:02:53"
+ },
+ {
+   "id": 28,
+   "name": "Azims second company",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-08 17:01:32",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-08 17:01:32"
+ },
+ {
+   "id": 29,
+   "name": "Amazon Development Center (India) Private Limited.",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-09 10:37:34",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-09 10:37:34"
+ },
+ {
+   "id": 30,
+   "name": "Ragus Healthcare Private Limited (Suger Fit)",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-23 12:36:13",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-23 12:36:13"
+ },
+ {
+   "id": 31,
+   "name": "Genisys Information Systems India Pvt Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-23 13:08:15",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-23 13:08:15"
+ },
+ {
+   "id": 32,
+   "name": "Amica Investment Advisers Private Limited (Jupiter Money)",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-23 13:13:20",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-23 13:13:20"
+ },
+ {
+   "id": 33,
+   "name": "Accenture Support Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-24 06:55:19",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-24 06:55:19"
+ },
+ {
+   "id": 34,
+   "name": "Infosys BPM Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-27 09:47:52",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-27 09:47:52"
+ },
+ {
+   "id": 35,
+   "name": "HCL Technology Limited ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-28 09:21:26",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-28 09:21:26"
+ },
+ {
+   "id": 36,
+   "name": "Deloitte consulting",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-29 07:05:11",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-29 07:05:11"
+ },
+ {
+   "id": 37,
+   "name": "Tavant technologies",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-29 09:37:13",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-29 09:37:13"
+ },
+ {
+   "id": 38,
+   "name": "Medika Bazaar ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-09-30 05:53:32",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-09-30 05:53:32"
+ },
+ {
+   "id": 39,
+   "name": "Quikr India Private Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-01 09:38:01",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-01 09:38:01"
+ },
+ {
+   "id": 40,
+   "name": "Titan company limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-01 10:36:09",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-01 10:36:09"
+ },
+ {
+   "id": 41,
+   "name": "Nagarro software PVT LTD",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-05 09:33:15",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-05 09:33:15"
+ },
+ {
+   "id": 42,
+   "name": "Digital Evolution Simplified",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-05 12:49:13",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-05 12:49:13"
+ },
+ {
+   "id": 43,
+   "name": "Trianz",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-06 04:28:40",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-06 04:28:40"
+ },
+ {
+   "id": 44,
+   "name": "Aurum Proptech ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-06 05:49:55",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-06 05:49:55"
+ },
+ {
+   "id": 45,
+   "name": "Deloitte Touche Tohmatsu India LLP",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-10-06 08:01:57",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-10-06 08:01:57"
+ },
+ {
+   "id": 46,
+   "name": "Mega shots",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-11-23 12:33:11",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-11-23 12:33:11"
+ },
+ {
+   "id": 47,
+   "name": "POLICYBAZAAR INSURANCE BROKERS PRIVATE LIMITED",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-11-25 10:08:48",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-11-25 10:08:48"
+ },
+ {
+   "id": 48,
+   "name": "SMARTCOIN FINANCIALS PRIVATE LIMITED",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-12-02 06:53:42",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-12-02 06:53:42"
+ },
+ {
+   "id": 49,
+   "name": "Sugar Fit",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-12-13 06:20:30",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-12-13 06:20:30"
+ },
+ {
+   "id": 50,
+   "name": "Betsol",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2021-12-29 09:44:27",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2021-12-29 09:44:27"
+ },
+ {
+   "id": 51,
+   "name": "Udaan",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-02-10 10:52:55",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-02-10 10:52:55"
+ },
+ {
+   "id": 52,
+   "name": "Clinikk Healthcare ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-02-10 10:58:23",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-02-10 10:58:23"
+ },
+ {
+   "id": 53,
+   "name": "Acko Insurance",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-02-10 11:01:18",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-02-10 11:01:18"
+ },
+ {
+   "id": 54,
+   "name": "Adobe Systems India Private Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-03-24 05:13:53",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-03-24 05:13:53"
+ },
+ {
+   "id": 55,
+   "name": "xelpmoc design and tech Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-03-25 09:10:47",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-03-25 09:10:47"
+ },
+ {
+   "id": 56,
+   "name": "Red Bus",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-03-25 12:23:18",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-03-25 12:23:18"
+ },
+ {
+   "id": 57,
+   "name": " Mphasis Limited",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-03-31 05:25:25",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-03-31 05:25:25"
+ },
+ {
+   "id": 58,
+   "name": "BETSOL Software ( India ) Private Limited ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-04-01 07:43:23",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-04-01 07:43:23"
+ },
+ {
+   "id": 59,
+   "name": "Swiggy",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-04-08 11:25:44",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-04-08 11:25:44"
+ },
+ {
+   "id": 60,
+   "name": "LNIINFO TECH ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-04-21 12:19:38",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-04-21 12:19:38"
+ },
+ {
+   "id": 61,
+   "name": "Tavant Technologies India Pvt Ltd ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-05-09 04:18:39",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-05-09 04:18:39"
+ },
+ {
+   "id": 62,
+   "name": "Myntra ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-05-09 11:30:06",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-05-09 11:30:06"
+ },
+ {
+   "id": 63,
+   "name": "Wizklub ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-17 10:59:35",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-17 10:59:35"
+ },
+ {
+   "id": 64,
+   "name": "Turnoclub",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-17 11:02:45",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-17 11:02:45"
+ },
+ {
+   "id": 65,
+   "name": "Livingfoodco Pvt Ltd ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-17 11:12:31",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-17 11:12:31"
+ },
+ {
+   "id": 66,
+   "name": "Kafqa Venture Pvt. Ltd  ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-17 12:02:34",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-17 12:02:34"
+ },
+ {
+   "id": 67,
+   "name": "Acko General Insurance ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-17 12:09:15",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-17 12:09:15"
+ },
+ {
+   "id": 68,
+   "name": "Magicbricks ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-06-24 09:32:53",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-06-24 09:32:53"
+ },
+ {
+   "id": 69,
+   "name": "Edureka ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-10-12 09:06:29",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-10-12 09:06:29"
+ },
+ {
+   "id": 70,
+   "name": "Cultfit ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-10-12 09:26:24",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-10-12 09:26:24"
+ },
+ {
+   "id": 71,
+   "name": "Teleperformance ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-10-12 09:32:17",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-10-12 09:32:17"
+ },
+ {
+   "id": 72,
+   "name": "Scalar Academy ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-10-12 10:15:23",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-10-12 10:15:23"
+ },
+ {
+   "id": 73,
+   "name": " L&T Infotech ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-10-13 11:39:43",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-10-13 11:39:43"
+ },
+ {
+   "id": 74,
+   "name": "Standard chartered",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-11-04 06:05:41",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-11-04 06:05:41"
+ },
+ {
+   "id": 75,
+   "name": "Wizehive ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-11-11 10:27:55",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-11-11 10:27:55"
+ },
+ {
+   "id": 76,
+   "name": "247 Intouch India Pvt Ltd",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-12-07 07:11:45",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-12-07 07:11:45"
+ },
+ {
+   "id": 77,
+   "name": "Value Creed ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2022-12-30 11:20:05",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2022-12-30 11:20:05"
+ },
+ {
+   "id": 78,
+   "name": "DBS ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-03-30 12:07:39",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-03-30 12:07:39"
+ },
+ {
+   "id": 79,
+   "name": "LTI ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-04-04 11:04:51",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-04-04 11:04:51"
+ },
+ {
+   "id": 80,
+   "name": "I Exceed",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-04-26 06:52:05",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-04-26 06:52:05"
+ },
+ {
+   "id": 81,
+   "name": "Happiest Minds Technologies",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-04-26 06:57:41",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-04-26 06:57:41"
+ },
+ {
+   "id": 82,
+   "name": "LTIMINDTREE ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-05-02 09:21:10",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-05-02 09:21:10"
+ },
+ {
+   "id": 83,
+   "name": "Accenture   ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-06-27 11:52:53",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-06-27 11:52:53"
+ },
+ {
+   "id": 84,
+   "name": "Ignitho ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-06-27 12:30:23",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-06-27 12:30:23"
+ },
+ {
+   "id": 85,
+   "name": "Infosys McCamish ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-06-28 04:43:15",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-06-28 04:43:15"
+ },
+ {
+   "id": 86,
+   "name": "Royal Brothers ",
+   "domain_id": 1,
+   "created_by": "",
+   "updated_date": "2023-06-28 04:55:33",
+   "updated_by": "",
+   "active": true,
+   "created_date": "2023-06-28 04:55:33"
+ }
+]
