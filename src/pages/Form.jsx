@@ -7,6 +7,7 @@ import skillData from "../data/skills.json";
 import companyData from "../data/companies.json";
 import categoryData from "../data/category.json";
 import { LoaderSpin } from "../components/Loader";
+import 'react-toastify/dist/ReactToastify.css';
 
 const Form = () => {
   const [skillSet, setSkillSet] = useState([]);

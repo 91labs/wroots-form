@@ -1,6 +1,6 @@
 import React from "react";
 import Form from "./pages/Form";
-import JobIcon from './images/jobhead.png';
+import JobIcon from './images/logo.jpeg';
 import { ToastContainer } from "react-toastify";
 
 function App() {
