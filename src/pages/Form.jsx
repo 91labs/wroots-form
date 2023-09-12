@@ -6,6 +6,7 @@ import { toast } from "react-toastify";
 import skillData from "../data/skills.json";
 import companyData from "../data/companies.json";
 import categoryData from "../data/category.json";
+import locationData from "../data/location.json";
 import { LoaderSpin } from "../components/Loader";
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -13,6 +14,7 @@ const Form = () => {
   const [skillSet, setSkillSet] = useState([]);
   const [companySet, setCompanySet] = useState([]);
   const [categorySet, setCategorySet] = useState([]);
+  const [locationSet, setLocationSet] = useState([]);
   const [selectedSkills, setSelectedSkills] = useState();
   const [selectedCompany, setSelectedCompany] = useState();
   const [selectedPlace, setSelectedPlace] = useState();
@@ -60,11 +62,18 @@ const Form = () => {
       value : cat
     }))
 
+    const transformedLocationSet = locationData.map((loc) => ({
+      label : loc.name,
+      value : loc
+    }))
+
     setSkillSet(transformedSkillSet);
 
     setCompanySet(transformedCompanySet);
 
     setCategorySet(transformedCategorySet);
+
+    setLocationSet(transformedLocationSet);
   }, []);
 
   const resetForm = () => {
@@ -318,7 +327,7 @@ const Form = () => {
               Location
             </label>
             <Select
-              options={skillSet}
+              options={locationSet}
               className="rounded-lg"
               placeholder="Select Location"
               value={selectedPlace}
