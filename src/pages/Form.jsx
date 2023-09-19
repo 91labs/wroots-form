@@ -10,9 +10,9 @@ import locationData from "../data/location.json";
 import { LoaderSpin } from "../components/Loader";
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css';
+import ToastLink from "../components/ToastLink";
 
 const Form = () => {
-  const [brief,setBrief] = useState('');
 
   const [skillSet, setSkillSet] = useState([]);
   const [companySet, setCompanySet] = useState([]);
@@ -24,7 +24,7 @@ const Form = () => {
   const [selectedCategory, setSelectedCategory] = useState();
 
   const {mutate, isLoading} = useMutation(createJob,{
-    onSuccess : () => toast.success("Job Created!"),
+    onSuccess : () => toast.success(ToastLink),
     onError : () => toast.error("Some Error Occured!")
   })
 
@@ -350,6 +350,7 @@ const Form = () => {
               Reset
             </span>
           </button>
+          <button onClick={() => toast.success(ToastLink)}>Click</button>
         </div>
       </form>
     </div>
