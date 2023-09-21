@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from "react";
 import Select from "react-select";
 import { useMutation } from "react-query";
-import { createJob } from "../hooks/createjob";
 import { toast } from "react-toastify";
+import ReactQuill from "react-quill";
+import Swal from "sweetalert2/dist/sweetalert2.js";
+import { LoaderSpin } from "../components/Loader";
+import { createJob } from "../hooks/createjob";
 import skillData from "../data/skills.json";
 import companyData from "../data/companies.json";
 import categoryData from "../data/category.json";
 import locationData from "../data/location.json";
-import { LoaderSpin } from "../components/Loader";
-import ReactQuill from 'react-quill';
-import 'react-quill/dist/quill.snow.css';
-import ToastLink from "../components/ToastLink";
+import "react-quill/dist/quill.snow.css";
+import "sweetalert2/src/sweetalert2.scss";
 
 const Form = () => {
-
   const [skillSet, setSkillSet] = useState([]);
   const [companySet, setCompanySet] = useState([]);
   const [categorySet, setCategorySet] = useState([]);
@@ -23,10 +23,24 @@ const Form = () => {
   const [selectedPlace, setSelectedPlace] = useState();
   const [selectedCategory, setSelectedCategory] = useState();
 
-  const {mutate, isLoading} = useMutation(createJob,{
-    onSuccess : () => toast.success(ToastLink),
-    onError : () => toast.error("Some Error Occured!")
-  })
+  const { mutate, isLoading } = useMutation(createJob, {
+    onSuccess: ({ data }) => { 
+      console.log(data);
+      const jobdata = JSON.parse(data.data.body);
+      Swal.fire({
+        title: "Job Posted!",
+        text: "Your Job has been posted, Visit it right now!",
+        icon: "success",
+        confirmButtonColor: "#3085d6",
+        confirmButtonText: "Visit The Job Page",
+      }).then((result) => {
+        if (result.isConfirmed) {
+          window.location = `https://job.wraeglobal.com/job?Id=${jobdata.id}`;
+        }
+      });
+    },
+    onError: () => toast.error("Some Error Occurred!"),
+  });
 
   const [formData, setFormData] = useState({
     name: "",
@@ -61,14 +75,14 @@ const Form = () => {
     }));
 
     const transformedCategorySet = categoryData.map((cat) => ({
-      label : cat.name,
-      value : cat
-    }))
+      label: cat.name,
+      value: cat,
+    }));
 
     const transformedLocationSet = locationData.map((loc) => ({
-      label : loc.name,
-      value : loc
-    }))
+      label: loc.name,
+      value: loc,
+    }));
 
     setSkillSet(transformedSkillSet);
 
@@ -81,7 +95,7 @@ const Form = () => {
 
   const resetForm = () => {
     window.location.reload();
-  }
+  };
 
   return (
     <div className="flex flex-col items-start gap-12 w-full">
@@ -139,7 +153,11 @@ const Form = () => {
               id="valid_till"
               className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
               onChange={(e) => {
-                setFormData({ ...formData, startDate: e.target.value , endDate : e.target.value });
+                setFormData({
+                  ...formData,
+                  startDate: e.target.value,
+                  endDate: e.target.value,
+                });
               }}
               required
             />
@@ -228,7 +246,11 @@ const Form = () => {
             >
               Briefing
             </label>
-            <ReactQuill theme="snow" value={formData.briefing} onChange={(e) => setFormData({...formData, briefing : e})} />
+            <ReactQuill
+              theme="snow"
+              value={formData.briefing}
+              onChange={(e) => setFormData({ ...formData, briefing: e })}
+            />
           </div>
         </div>
         <div className="flex flex-row gap-4 items-center">
@@ -345,12 +367,14 @@ const Form = () => {
               {isLoading ? <LoaderSpin /> : "Submit"}
             </span>
           </button>
-          <button onClick={resetForm} className="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group group bg-gradient-to-br from-pink-500 to-orange-400 group-hover:from-pink-500 group-hover:to-orange-400 hover:text-white focus:ring-4 focus:outline-none focus:ring-pink-200">
+          <button
+            onClick={resetForm}
+            className="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group group bg-gradient-to-br from-pink-500 to-orange-400 group-hover:from-pink-500 group-hover:to-orange-400 hover:text-white focus:ring-4 focus:outline-none focus:ring-pink-200"
+          >
             <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white rounded-md group-hover:bg-opacity-0">
               Reset
             </span>
           </button>
-          <button onClick={() => toast.success(ToastLink)}>Click</button>
         </div>
       </form>
     </div>
