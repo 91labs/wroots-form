@@ -1,1703 +1,668 @@
 [
  {
-   "id": 1,
-   "name": "Java",
-   "created_by": null,
-   "updated_by": null,
+   "id": 190,
+   "name": "OpenText Infoarchive",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-23 15:05:26",
-   "updated_at": "2021-11-23 15:05:26"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 2,
-   "name": "AWS",
-   "created_by": null,
-   "updated_by": null,
+   "id": 191,
+   "name": "SAP",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 09:55:38",
-   "updated_at": "2021-11-25 09:55:38"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 3,
-   "name": "Javascript",
-   "created_by": null,
-   "updated_by": null,
+   "id": 192,
+   "name": "Customer Support Executive (Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 09:55:38",
-   "updated_at": "2021-11-25 09:55:38"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 4,
-   "name": "Redis",
-   "created_by": null,
-   "updated_by": null,
+   "id": 193,
+   "name": "Chat Support Executive (Non Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 10:14:31",
-   "updated_at": "2021-11-25 10:14:31"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 5,
-   "name": "GCP",
-   "created_by": null,
-   "updated_by": null,
+   "id": 194,
+   "name": "Appain",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 12:03:19",
-   "updated_at": "2021-11-25 12:03:19"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 6,
-   "name": "Azure",
-   "created_by": null,
-   "updated_by": null,
+   "id": 195,
+   "name": "SAP Ariba Upstream Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 12:05:46",
-   "updated_at": "2021-11-25 12:05:46"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 7,
-   "name": "SQL",
-   "created_by": null,
-   "updated_by": null,
+   "id": 196,
+   "name": "Field Sales Executive",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2021-11-25 14:20:45",
-   "updated_at": "2021-11-25 14:20:45"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 8,
-   "name": "Mongo",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-11-25 14:27:29",
-   "updated_at": "2021-11-25 14:27:29"
- },
- {
-   "id": 9,
-   "name": "Nosql",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-11-25 14:27:29",
-   "updated_at": "2021-11-25 14:27:29"
- },
- {
-   "id": 10,
-   "name": "Full stack",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-11-27 07:26:28",
-   "updated_at": "2021-11-27 07:26:28"
- },
- {
-   "id": 11,
-   "name": "Main frame",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-11-27 07:37:52",
-   "updated_at": "2021-11-27 07:37:52"
- },
- {
-   "id": 12,
-   "name": "Front end",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-03 01:09:39",
-   "updated_at": "2021-12-03 01:09:39"
- },
- {
-   "id": 13,
-   "name": "RBA",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-03 02:07:52",
-   "updated_at": "2021-12-03 02:07:52"
- },
- {
-   "id": 14,
-   "name": "Social media process ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-20 05:51:10",
-   "updated_at": "2021-12-20 05:51:10"
- },
- {
-   "id": 15,
-   "name": "Social media ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-20 05:51:10",
-   "updated_at": "2021-12-20 05:51:10"
- },
- {
-   "id": 16,
-   "name": "TeleSales ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-20 06:57:42",
-   "updated_at": "2021-12-20 06:57:42"
- },
- {
-   "id": 17,
-   "name": "Sales",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-20 06:57:42",
-   "updated_at": "2021-12-20 06:57:42"
- },
- {
-   "id": 18,
-   "name": "false",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-22 03:17:07",
-   "updated_at": "2021-12-22 03:17:07"
- },
- {
-   "id": 19,
-   "name": "Tele sales",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-29 09:33:50",
-   "updated_at": "2021-12-29 09:33:50"
- },
- {
-   "id": 20,
-   "name": "Technical support ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-29 09:44:28",
-   "updated_at": "2021-12-29 09:44:28"
- },
- {
-   "id": 21,
-   "name": "Technical ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-29 09:44:28",
-   "updated_at": "2021-12-29 09:44:28"
- },
- {
-   "id": 22,
-   "name": "Customer support",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2021-12-29 09:44:28",
-   "updated_at": "2021-12-29 09:44:28"
- },
- {
-   "id": 23,
-   "name": "•\tB2B SaaS product/ e-commerce experience",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 09:53:49",
-   "updated_at": "2022-01-07 09:53:49"
- },
- {
-   "id": 24,
-   "name": "interaction design",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:14:14",
-   "updated_at": "2022-01-07 10:14:14"
- },
- {
-   "id": 25,
-   "name": "as Sketch, Invision, Figma, XD, Photoshop ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:14:15",
-   "updated_at": "2022-01-07 10:14:15"
- },
- {
-   "id": 26,
-   "name": "•\tWorking knowledge of html, CSS and Javascript",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:14:15",
-   "updated_at": "2022-01-07 10:14:15"
- },
- {
-   "id": 27,
-   "name": "advanced knowledge of Angular ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:32:11",
-   "updated_at": "2022-01-07 10:32:11"
- },
- {
-   "id": 28,
-   "name": "Having strong knowledge on working with JavaScript/Typescript concepts and ES6 features",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:32:11",
-   "updated_at": "2022-01-07 10:32:11"
- },
- {
-   "id": 29,
-   "name": "Strong Experience in Version control like GIT/SVN",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:32:12",
-   "updated_at": "2022-01-07 10:32:12"
- },
- {
-   "id": 30,
-   "name": "Angular v7",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:38:30",
-   "updated_at": "2022-01-07 10:38:30"
- },
- {
-   "id": 31,
-   "name": "DI and Directives",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:38:30",
-   "updated_at": "2022-01-07 10:38:30"
- },
- {
-   "id": 32,
-   "name": "AWS S3 hosting of dynamic webpages",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:38:31",
-   "updated_at": "2022-01-07 10:38:31"
- },
- {
-   "id": 33,
-   "name": "Angular v7+ experience",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:44:11",
-   "updated_at": "2022-01-07 10:44:11"
- },
- {
-   "id": 34,
-   "name": "any BI tool in Angular",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:44:12",
-   "updated_at": "2022-01-07 10:44:12"
- },
- {
-   "id": 35,
-   "name": "Any major prototyping tool",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:50:26",
-   "updated_at": "2022-01-07 10:50:26"
- },
- {
-   "id": 36,
-   "name": "Ability to present and brainstorm ideas",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:50:26",
-   "updated_at": "2022-01-07 10:50:26"
- },
- {
-   "id": 37,
-   "name": "Must have experience in E-Commerce",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:50:27",
-   "updated_at": "2022-01-07 10:50:27"
- },
- {
-   "id": 38,
-   "name": "prototyping tool",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:54:43",
-   "updated_at": "2022-01-07 10:54:43"
- },
- {
-   "id": 39,
-   "name": "CSS and HTML",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 10:54:44",
-   "updated_at": "2022-01-07 10:54:44"
- },
- {
-   "id": 40,
-   "name": "ElasticSearch experience ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:03:17",
-   "updated_at": "2022-01-07 11:03:17"
- },
- {
-   "id": 41,
-   "name": "stack and Python ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:03:17",
-   "updated_at": "2022-01-07 11:03:17"
- },
- {
-   "id": 42,
-   "name": "statistical analysis ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:03:18",
-   "updated_at": "2022-01-07 11:03:18"
- },
- {
-   "id": 43,
-   "name": "PHP web frameworks {such as Laravel, Yii",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:12:28",
-   "updated_at": "2022-01-07 11:12:28"
- },
- {
-   "id": 44,
-   "name": "JavaScript, HTML5, and CSS3",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:12:29",
-   "updated_at": "2022-01-07 11:12:29"
- },
- {
-   "id": 45,
-   "name": "with SQL/NoSQL databases ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:12:29",
-   "updated_at": "2022-01-07 11:12:29"
- },
- {
-   "id": 46,
-   "name": "NLP techniques ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:24:27",
-   "updated_at": "2022-01-07 11:24:27"
- },
- {
-   "id": 47,
-   "name": "python programming language",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:24:28",
-   "updated_at": "2022-01-07 11:24:28"
- },
- {
-   "id": 48,
-   "name": "Machine Learning algorithms",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 11:24:28",
-   "updated_at": "2022-01-07 11:24:28"
- },
- {
-   "id": 49,
-   "name": "Experience on CNN/RNN/LSTM ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 12:43:01",
-   "updated_at": "2022-01-07 12:43:01"
- },
- {
-   "id": 50,
-   "name": "TensorFlow, PyTorch, NLTK, spaCy",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 12:43:01",
-   "updated_at": "2022-01-07 12:43:01"
- },
- {
-   "id": 51,
-   "name": "morphology, syntactic and semantic extraction, and modelling",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-07 12:43:02",
-   "updated_at": "2022-01-07 12:43:02"
- },
- {
-   "id": 52,
-   "name": ".NET and Objective-C",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:26:37",
-   "updated_at": "2022-01-10 06:26:37"
- },
- {
-   "id": 53,
-   "name": "AngularJs and SQL,Full stack",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:26:37",
-   "updated_at": "2022-01-10 06:26:37"
- },
- {
-   "id": 54,
-   "name": "Microservices, FaaS (Any), ECS, Docker,Docker swarm/Kubernetes, S3, RESTFul Api, JS Frameworks (React,Angular,Vue.js)",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:36:13",
-   "updated_at": "2022-01-10 06:36:13"
- },
- {
-   "id": 55,
-   "name": "SQL/NOSQL databases (DynamoDB,Aurora,ElastiCache,Oracle,MySQL,mongodb), Servreless,",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:36:13",
-   "updated_at": "2022-01-10 06:36:13"
- },
- {
-   "id": 56,
-   "name": "Jenkins/Github Actions, Design patterns, Elasticsearch, Logstash, and Kibana/grafana, S3, Redshift, Java, Spring, Hibernate, Agile",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:36:13",
-   "updated_at": "2022-01-10 06:36:13"
- },
- {
-   "id": 57,
-   "name": " quality of deliveries for all SaaS and onsite customer projects",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:46:50",
-   "updated_at": "2022-01-10 06:46:50"
- },
- {
-   "id": 58,
-   "name": "working in PropTech ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:46:50",
-   "updated_at": "2022-01-10 06:46:50"
- },
- {
-   "id": 59,
-   "name": "Managing employee lifecycle (Recruitment , onboarding, appraisals, career development,  Exit",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:46:51",
-   "updated_at": "2022-01-10 06:46:51"
- },
- {
-   "id": 60,
-   "name": "Spring boot,nodejs and expertise ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 06:58:00",
-   "updated_at": "2022-01-10 06:58:00"
- },
- {
-   "id": 61,
-   "name": "experience in Salesforce Application Development",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:19:56",
-   "updated_at": "2022-01-10 07:19:56"
- },
- {
-   "id": 62,
-   "name": "Lightning (AURA/LWC  at least one year Project experience)",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:20:21",
-   "updated_at": "2022-01-10 07:20:21"
- },
- {
-   "id": 63,
-   "name": "Sales Cloud/ Service Cloud / Experience cloud experience (exposure) ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:20:21",
-   "updated_at": "2022-01-10 07:20:21"
- },
- {
-   "id": 64,
-   "name": "Salesforce Application Development (Overall 6+ IT experience)",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:30:42",
-   "updated_at": "2022-01-10 07:30:42"
- },
- {
-   "id": 65,
-   "name": "Lightning (AURA/LWC min 2+ years of  Project experience)",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:30:43",
-   "updated_at": "2022-01-10 07:30:43"
- },
- {
-   "id": 66,
-   "name": "Integration (at least in REST API) experience in Projects, experience in developing custom Apex Classes and Apex Triggers",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 07:30:43",
-   "updated_at": "2022-01-10 07:30:43"
- },
- {
-   "id": 67,
-   "name": "AEM/CQ5 experience ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 08:54:03",
-   "updated_at": "2022-01-10 08:54:03"
- },
- {
-   "id": 68,
-   "name": "HTML5, CSS3, JavaScript ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 08:54:04",
-   "updated_at": "2022-01-10 08:54:04"
- },
- {
-   "id": 69,
-   "name": "Adobe AEM Developer with strong Java/J2EE ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 08:58:56",
-   "updated_at": "2022-01-10 08:58:56"
- },
- {
-   "id": 70,
-   "name": "experience with Adobe AEM/CQ5",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-01-10 08:58:57",
-   "updated_at": "2022-01-10 08:58:57"
- },
- {
-   "id": 71,
-   "name": "Pre-sales/sales, Internal sales, UX statergy, UI hands-on",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:13:54",
-   "updated_at": "2022-03-24 05:13:54"
- },
- {
-   "id": 72,
-   "name": "Client Consulting",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:13:54",
-   "updated_at": "2022-03-24 05:13:54"
- },
- {
-   "id": 73,
-   "name": "Digital Experience",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:13:55",
-   "updated_at": "2022-03-24 05:13:55"
- },
- {
-   "id": 74,
-   "name": "\"Hands-on experience on Adobe products\"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:27:35",
-   "updated_at": "2022-03-24 05:27:35"
- },
- {
-   "id": 75,
-   "name": "\"Project management and delivery\"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:27:36",
-   "updated_at": "2022-03-24 05:27:36"
- },
- {
-   "id": 76,
-   "name": "\"Problem solving skills, cross- functional issues\"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:27:36",
-   "updated_at": "2022-03-24 05:27:36"
- },
- {
-   "id": 77,
-   "name": "\"Campaign building, Campaign management, Campaign execution, Creative creation, QA, Monitoring \"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:33:17",
-   "updated_at": "2022-03-24 05:33:17"
- },
- {
-   "id": 78,
-   "name": "\"Product Management,  Program Management and  User Experience Designers\"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:33:18",
-   "updated_at": "2022-03-24 05:33:18"
- },
- {
-   "id": 79,
-   "name": "\"Handle Customer critical issues resolving the  problem and/or dealing with the customer. \"",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:33:18",
-   "updated_at": "2022-03-24 05:33:18"
- },
- {
-   "id": 80,
-   "name": "Java / J2EE solution development experience on JCR based WCM products",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:43:53",
-   "updated_at": "2022-03-24 05:43:53"
- },
- {
-   "id": 81,
-   "name": "AEM or any other WCM/ECM product suite",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:43:53",
-   "updated_at": "2022-03-24 05:43:53"
- },
- {
-   "id": 82,
-   "name": "CMS Design, CRX, CQ WCM, DAM and Social Collaboration",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 05:43:53",
-   "updated_at": "2022-03-24 05:43:53"
- },
- {
-   "id": 83,
-   "name": "Adobe Target, Analytics, AEM",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 07:04:42",
-   "updated_at": "2022-03-24 07:04:42"
- },
- {
-   "id": 84,
-   "name": "customer facing skills ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 07:04:43",
-   "updated_at": "2022-03-24 07:04:43"
- },
- {
-   "id": 85,
-   "name": "use cases of Digital Platform implementations ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-24 07:04:43",
-   "updated_at": "2022-03-24 07:04:43"
- },
- {
-   "id": 86,
-   "name": "Testing ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 08:51:54",
-   "updated_at": "2022-03-25 08:51:54"
- },
- {
-   "id": 87,
-   "name": "Cucumber",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 08:51:55",
-   "updated_at": "2022-03-25 08:51:55"
- },
- {
-   "id": 88,
-   "name": "automation ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 08:51:55",
-   "updated_at": "2022-03-25 08:51:55"
- },
- {
-   "id": 89,
-   "name": "Java 8 or above version, SpringBoot, Microservices",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 08:59:08",
-   "updated_at": "2022-03-25 08:59:08"
- },
- {
-   "id": 90,
-   "name": "Multithreading, Messaging/Message Broker, Cloud (Will be a plus",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 08:59:08",
-   "updated_at": "2022-03-25 08:59:08"
- },
- {
-   "id": 91,
-   "name": "Flutter lead(mobile development)",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 09:10:48",
-   "updated_at": "2022-03-25 09:10:48"
- },
- {
-   "id": 92,
-   "name": "Flutter, Dart, Flutter UI and animations",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-25 09:10:48",
-   "updated_at": "2022-03-25 09:10:48"
- },
- {
-   "id": 93,
-   "name": "SAP Basis",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 05:25:26",
-   "updated_at": "2022-03-31 05:25:26"
- },
- {
-   "id": 94,
-   "name": "HANA",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 05:25:27",
-   "updated_at": "2022-03-31 05:25:27"
- },
- {
-   "id": 95,
-   "name": "SAP ABAP",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 06:52:55",
-   "updated_at": "2022-03-31 06:52:55"
- },
- {
-   "id": 96,
-   "name": "Software Product Development",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 06:54:26",
-   "updated_at": "2022-03-31 06:54:26"
- },
- {
-   "id": 97,
-   "name": "ReactJs",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 06:57:42",
-   "updated_at": "2022-03-31 06:57:42"
- },
- {
-   "id": 98,
-   "name": "Typescript  ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 06:57:42",
-   "updated_at": "2022-03-31 06:57:42"
- },
- {
-   "id": 99,
-   "name": "Material UI",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 06:57:43",
-   "updated_at": "2022-03-31 06:57:43"
- },
- {
-   "id": 100,
-   "name": "Selenium",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:03:21",
-   "updated_at": "2022-03-31 07:03:21"
- },
- {
-   "id": 101,
-   "name": "C#",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:07:49",
-   "updated_at": "2022-03-31 07:07:49"
- },
- {
-   "id": 102,
-   "name": "WPF ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:07:49",
-   "updated_at": "2022-03-31 07:07:49"
- },
- {
-   "id": 103,
-   "name": "Devops",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:09:37",
-   "updated_at": "2022-03-31 07:09:37"
- },
- {
-   "id": 104,
-   "name": "NLP  ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:11:13",
-   "updated_at": "2022-03-31 07:11:13"
- },
- {
-   "id": 105,
-   "name": "ML  ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:11:13",
-   "updated_at": "2022-03-31 07:11:13"
- },
- {
-   "id": 106,
-   "name": "ELK",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2022-03-31 07:12:43",
-   "updated_at": "2022-03-31 07:12:43"
- },
- {
-   "id": 107,
+   "id": 197,
    "name": "Pega",
-   "created_by": null,
-   "updated_by": null,
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-04-18 05:36:36",
-   "updated_at": "2022-04-18 05:36:36"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 108,
-   "name": "Angular latest version ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 198,
+   "name": "RPA Blue Prism",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-04-18 05:59:03",
-   "updated_at": "2022-04-18 05:59:03"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 109,
-   "name": "IIB ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 199,
+   "name": "Automation Anywhere 360",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-04-19 12:21:13",
-   "updated_at": "2022-04-19 12:21:13"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 110,
-   "name": "Tosca ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 200,
+   "name": "Technical Support Executive (Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-04-21 12:19:40",
-   "updated_at": "2022-04-21 12:19:40"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 111,
-   "name": "Automation testing ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 201,
+   "name": "Java Lead",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-05-09 04:18:40",
-   "updated_at": "2022-05-09 04:18:40"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 112,
-   "name": "Hybris ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 202,
+   "name": "Java Developer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-05-09 04:28:14",
-   "updated_at": "2022-05-09 04:28:14"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 113,
-   "name": "SQL, Dashboarding-Tableau/PowerBI/Quicksight, Python(good to have), Business Acumen, Good communication skills ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 203,
+   "name": "Field Collection Executive",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-23 12:13:18",
-   "updated_at": "2022-06-23 12:13:18"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 114,
-   "name": " preferably Java, C/C++/C#, Perl, Python, or Ruby, php ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 204,
+   "name": "Lead Genereation Executive",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-23 12:16:30",
-   "updated_at": "2022-06-23 12:16:30"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 115,
-   "name": "ava, C++, or C# including object-oriented design ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 205,
+   "name": "Email Support Executive (Semi Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-23 12:19:12",
-   "updated_at": "2022-06-23 12:19:12"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 116,
-   "name": "Java Full Stack ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 206,
+   "name": "Java Architect",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 09:32:54",
-   "updated_at": "2022-06-24 09:32:54"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 117,
-   "name": "Service Now+QA,Performance Testing,Unix/Linux Admin ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 207,
+   "name": "Collection Executive (Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 11:48:12",
-   "updated_at": "2022-06-24 11:48:12"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 118,
-   "name": "QA Testing With selenium+ Java, Java Developer ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 208,
+   "name": "Telesales Executive (Voice)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 11:48:13",
-   "updated_at": "2022-06-24 11:48:13"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 119,
-   "name": "Open text Content server , Archive Server , OTDS , Blazon, Brava, xECM  3- 8 exp remote ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 209,
+   "name": "Sap E-Procurement Srm",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 11:54:59",
-   "updated_at": "2022-06-24 11:54:59"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 120,
-   "name": "AWS Code Deploy, Azure DevOps, Github, Gitlab, Jenkins- Senior Staff Engineer –remote 35 ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 210,
+   "name": "SAP BPC SAC",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 11:54:59",
-   "updated_at": "2022-06-24 11:54:59"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 121,
-   "name": "Mobile Developer - flutter ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 211,
+   "name": "OutSystems",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 12:01:27",
-   "updated_at": "2022-06-24 12:01:27"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 122,
-   "name": "Node JS,React, ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 212,
+   "name": "UI/UX Developer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 12:01:27",
-   "updated_at": "2022-06-24 12:01:27"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 123,
-   "name": "Sr. Associate Platform Level 1/Level 2 – Core Java (Microservices) ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 213,
+   "name": "Team Leader",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-06-24 12:05:58",
-   "updated_at": "2022-06-24 12:05:58"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 124,
-   "name": "FSM ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 214,
+   "name": "Adobe Campaign",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-09-23 09:53:13",
-   "updated_at": "2022-09-23 09:53:13"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 125,
-   "name": "PSO ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 215,
+   "name": "SAP PP/QM Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-09-23 09:53:13",
-   "updated_at": "2022-09-23 09:53:13"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 126,
-   "name": "Chat Support ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 216,
+   "name": "React Native",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-10-12 09:01:11",
-   "updated_at": "2022-10-12 09:01:11"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 127,
-   "name": "Sales Executive ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 217,
+   "name": "SAP FICO Lead",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-10-12 09:06:30",
-   "updated_at": "2022-10-12 09:06:30"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 128,
-   "name": "Customer Support (Voice/ Non-Voice) ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 218,
+   "name": "SAP Plant Maintenance",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-10-12 09:14:34",
-   "updated_at": "2022-10-12 09:14:34"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 129,
-   "name": "Inside Sales ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 219,
+   "name": "Data Engineer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-10-12 10:13:29",
-   "updated_at": "2022-10-12 10:13:29"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 130,
-   "name": " ETRM development technically (products like ENDURE/Right Angle/Allegro ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 220,
+   "name": "Quality Analyst",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-10-13 11:39:44",
-   "updated_at": "2022-10-13 11:39:44"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 131,
-   "name": "Email and Chat",
-   "created_by": null,
-   "updated_by": null,
+   "id": 221,
+   "name": "Sap Security",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-11-30 10:00:16",
-   "updated_at": "2022-11-30 10:00:16"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 132,
-   "name": "Collection",
-   "created_by": null,
-   "updated_by": null,
+   "id": 222,
+   "name": "SAP FICO Solution Architect",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-12-01 09:57:53",
-   "updated_at": "2022-12-01 09:57:53"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 133,
-   "name": "ETRM/CTRM ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 223,
+   "name": "SAP PS Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2022-12-30 11:20:06",
-   "updated_at": "2022-12-30 11:20:06"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 134,
-   "name": "ETRM / CTRM",
-   "created_by": null,
-   "updated_by": null,
+   "id": 224,
+   "name": "SAP Cloud Integration Gateway",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-01-02 05:09:58",
-   "updated_at": "2023-01-02 05:09:58"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 135,
-   "name": "Wealth Manager ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 225,
+   "name": "SAP Fuel Management Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-03-30 12:07:40",
-   "updated_at": "2023-03-30 12:07:40"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 136,
-   "name": "Vision Plus ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 226,
+   "name": "SAP FICO (Finance & Controlling) Lead",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-04 11:04:52",
-   "updated_at": "2023-04-04 11:04:52"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 137,
-   "name": "SAP FICO ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 227,
+   "name": "Kofax",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 04:37:30",
-   "updated_at": "2023-04-26 04:37:30"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 138,
-   "name": "SAP SD ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 228,
+   "name": "Primavera Unifier Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 04:40:23",
-   "updated_at": "2023-04-26 04:40:23"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 139,
-   "name": "SAP Ui5 ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 229,
+   "name": "SAP ABAP Hana",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 04:54:12",
-   "updated_at": "2023-04-26 04:54:12"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 140,
-   "name": "SAP BTP ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 230,
+   "name": "SAP CO Lead",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 04:56:51",
-   "updated_at": "2023-04-26 04:56:51"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 141,
-   "name": "SAP MM ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 231,
+   "name": "SAP BCM",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 05:00:06",
-   "updated_at": "2023-04-26 05:00:06"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 142,
-   "name": "ABAP + HANA ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 232,
+   "name": "SAP Ariba SLP",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 05:04:12",
-   "updated_at": "2023-04-26 05:04:12"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 143,
-   "name": "Dynatrace",
-   "created_by": null,
-   "updated_by": null,
+   "id": 233,
+   "name": "SAP CIG",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:04:18",
-   "updated_at": "2023-04-26 06:04:18"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 144,
-   "name": "Splunk tools ,hands-on architectural design",
-   "created_by": null,
-   "updated_by": null,
+   "id": 234,
+   "name": "SAP Data Migration",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:11:57",
-   "updated_at": "2023-04-26 06:11:57"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 145,
-   "name": "BA - RightAngle, Allegro, Endur",
-   "created_by": null,
-   "updated_by": null,
+   "id": 235,
+   "name": "SAP PP Lead",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:16:27",
-   "updated_at": "2023-04-26 06:16:27"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 146,
-   "name": "RightAngle Technical",
-   "created_by": null,
-   "updated_by": null,
+   "id": 236,
+   "name": "SD CS (Customer Service)",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:22:00",
-   "updated_at": "2023-04-26 06:22:00"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 147,
-   "name": "Endur Technical",
-   "created_by": null,
-   "updated_by": null,
+   "id": 237,
+   "name": "SAP HCM Lead Consultant",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:25:01",
-   "updated_at": "2023-04-26 06:25:01"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 148,
-   "name": "Testing - RightAngle, Allegro, Endur",
-   "created_by": null,
-   "updated_by": null,
+   "id": 238,
+   "name": "Sap Advanced Security",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:30:49",
-   "updated_at": "2023-04-26 06:30:49"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 149,
-   "name": "Scrum Master",
-   "created_by": null,
-   "updated_by": null,
+   "id": 239,
+   "name": "PHP with Shopify",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:52:06",
-   "updated_at": "2023-04-26 06:52:06"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 150,
-   "name": "Java, AWS, Data Structures and Algorithms",
-   "created_by": null,
-   "updated_by": null,
+   "id": 240,
+   "name": "SAP Cutover Manger",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 06:57:42",
-   "updated_at": "2023-04-26 06:57:42"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 151,
-   "name": "PHP and ROR",
-   "created_by": null,
-   "updated_by": null,
+   "id": 241,
+   "name": "SAP EP",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 07:17:23",
-   "updated_at": "2023-04-26 07:17:23"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 152,
-   "name": "PHP, Ruby On Rails, Moodle, Angular 2 (JS / DB like MySQL/ SQL/ Mongo) ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 242,
+   "name": "SAP Enterprise Portal",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 07:21:03",
-   "updated_at": "2023-04-26 07:21:03"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 153,
-   "name": "JavaScript, React, redux, ES6, Leadership Skills ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 243,
+   "name": "Primavera Unifier Architect",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 07:25:45",
-   "updated_at": "2023-04-26 07:25:45"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 154,
-   "name": "NodeJS, API, MongoDB and Express JS ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 244,
+   "name": "SAP Human Capital Management (HCM) ",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 07:29:47",
-   "updated_at": "2023-04-26 07:29:47"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 155,
-   "name": "C#,.Net core, react and Ba ckend (.net)",
-   "created_by": null,
-   "updated_by": null,
+   "id": 245,
+   "name": "SAP HCM",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-04-26 07:34:34",
-   "updated_at": "2023-04-26 07:34:34"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 156,
-   "name": "HRMS , OTL",
-   "created_by": null,
-   "updated_by": null,
+   "id": 246,
+   "name": "SAP SuccessFactors Architect",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:21:11",
-   "updated_at": "2023-05-02 09:21:11"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 157,
-   "name": "HRMS , OAF",
-   "created_by": null,
-   "updated_by": null,
+   "id": 247,
+   "name": "SAP TM",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:24:26",
-   "updated_at": "2023-05-02 09:24:26"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 158,
-   "name": "HRMS , ABSENCE & PERFORMANCE MANAGEMENT",
-   "created_by": null,
-   "updated_by": null,
+   "id": 248,
+   "name": "SAP HCM PY",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:27:32",
-   "updated_at": "2023-05-02 09:27:32"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 159,
-   "name": "HRMS  ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 249,
+   "name": "SAP TRM",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:31:07",
-   "updated_at": "2023-05-02 09:31:07"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 160,
-   "name": "ORACLE MDM",
-   "created_by": null,
-   "updated_by": null,
+   "id": 250,
+   "name": "SAP Transportation Management",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:37:40",
-   "updated_at": "2023-05-02 09:37:40"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 161,
-   "name": "ORACLE MDM, OUAF",
-   "created_by": null,
-   "updated_by": null,
+   "id": 251,
+   "name": "SAP Treasury and Risk Management",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:43:03",
-   "updated_at": "2023-05-02 09:43:03"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 162,
-   "name": "SCADA,ADMS,GIS",
-   "created_by": null,
-   "updated_by": null,
+   "id": 252,
+   "name": "SAP Supplier Relationship Management",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:45:38",
-   "updated_at": "2023-05-02 09:45:38"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 163,
-   "name": "OSI SOFT PI ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 253,
+   "name": ".Net Angular",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-02 09:48:41",
-   "updated_at": "2023-05-02 09:48:41"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 164,
-   "name": "BASIS HANA+ ORACLE (DB) ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 254,
+   "name": "SAP VIM",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-05 04:59:36",
-   "updated_at": "2023-05-05 04:59:36"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 165,
-   "name": "PHANTOM/SOAR + SPLUNK",
-   "created_by": null,
-   "updated_by": null,
+   "id": 255,
+   "name": "Andriod Developer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-05 05:01:53",
-   "updated_at": "2023-05-05 05:01:53"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 166,
-   "name": "SAP CRM + S4 HANA",
-   "created_by": null,
-   "updated_by": null,
+   "id": 256,
+   "name": "IOS Developer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-05 05:04:13",
-   "updated_at": "2023-05-05 05:04:13"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 167,
-   "name": "OIC + SAAS + PAAS ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 257,
+   "name": "DevOps",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-05 05:06:33",
-   "updated_at": "2023-05-05 05:06:33"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 168,
-   "name": "IAM + LDAP +FORGEROCK",
-   "created_by": null,
-   "updated_by": null,
+   "id": 258,
+   "name": "QA",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-05 05:11:27",
-   "updated_at": "2023-05-05 05:11:27"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 169,
-   "name": "DELLBOOMI  ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 259,
+   "name": "Web Developer",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-05-31 13:53:37",
-   "updated_at": "2023-05-31 13:53:37"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 170,
-   "name": "DELMIA APRISO",
-   "created_by": null,
-   "updated_by": null,
+   "id": 260,
+   "name": "RPA UiPath",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-06-02 08:10:48",
-   "updated_at": "2023-06-02 08:10:48"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 171,
-   "name": "SIGMAFINE ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 261,
+   "name": "Golang",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-06-02 08:13:37",
-   "updated_at": "2023-06-02 08:13:37"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 172,
-   "name": "LIMS ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 262,
+   "name": "SAP SuccessFactors Employee Benefits",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-06-02 08:15:44",
-   "updated_at": "2023-06-02 08:15:44"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  },
  {
-   "id": 173,
-   "name": "LIDAR ",
-   "created_by": null,
-   "updated_by": null,
+   "id": 263,
+   "name": "Pathology Coder",
+   "created_by": "admin",
+   "updated_by": "admin",
    "active": true,
-   "created_at": "2023-06-02 08:18:27",
-   "updated_at": "2023-06-02 08:18:27"
- },
- {
-   "id": 174,
-   "name": "SAP TRM ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-02 08:20:43",
-   "updated_at": "2023-06-02 08:20:43"
- },
- {
-   "id": 175,
-   "name": "ADF, ADB, PYTHON, PYSPARK ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 11:52:54",
-   "updated_at": "2023-06-27 11:52:54"
- },
- {
-   "id": 176,
-   "name": "Python, SQL, AWS, Lambda ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:30:24",
-   "updated_at": "2023-06-27 12:30:24"
- },
- {
-   "id": 177,
-   "name": "Terraform & AWS (Architect Level) ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:33:25",
-   "updated_at": "2023-06-27 12:33:25"
- },
- {
-   "id": 178,
-   "name": "Python, AWS Sage maker proficiency, SQL ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:36:51",
-   "updated_at": "2023-06-27 12:36:51"
- },
- {
-   "id": 179,
-   "name": "IntelliJ IDEA, AutoSys, WinSCP, Putty & GitHub ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:47:24",
-   "updated_at": "2023-06-27 12:47:24"
- },
- {
-   "id": 180,
-   "name": "OBIEE/Tableau tools ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:50:17",
-   "updated_at": "2023-06-27 12:50:17"
- },
- {
-   "id": 181,
-   "name": "as JSON,XML,CSV, EXCE ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 12:54:43",
-   "updated_at": "2023-06-27 12:54:43"
- },
- {
-   "id": 182,
-   "name": "AWS Solutions Architect, AWS Developer, or AWS Certified Big Data – Specialty (Data Analytics Specialty) ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 13:04:30",
-   "updated_at": "2023-06-27 13:04:30"
- },
- {
-   "id": 183,
-   "name": "SQL skills ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-27 13:16:56",
-   "updated_at": "2023-06-27 13:16:56"
- },
- {
-   "id": 184,
-   "name": "MSBI ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 04:48:16",
-   "updated_at": "2023-06-28 04:48:16"
- },
- {
-   "id": 185,
-   "name": "Analyst",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 05:08:59",
-   "updated_at": "2023-06-28 05:08:59"
- },
- {
-   "id": 186,
-   "name": "EBS ASCP",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 09:17:44",
-   "updated_at": "2023-06-28 09:17:44"
- },
- {
-   "id": 187,
-   "name": "EBS SCM",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 09:21:11",
-   "updated_at": "2023-06-28 09:21:11"
- },
- {
-   "id": 188,
-   "name": "EBS APPS",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 09:24:24",
-   "updated_at": "2023-06-28 09:24:24"
- },
- {
-   "id": 189,
-   "name": "OIC  ",
-   "created_by": null,
-   "updated_by": null,
-   "active": true,
-   "created_at": "2023-06-28 09:47:21",
-   "updated_at": "2023-06-28 09:47:21"
+   "created_at": "2023-09-21 16:18:28",
+   "updated_at": "2023-09-21 16:18:28"
  }
 ]
