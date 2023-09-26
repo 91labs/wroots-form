@@ -35,7 +35,7 @@ const Form = () => {
         confirmButtonText: "Visit The Job Page",
       }).then((result) => {
         if (result.isConfirmed) {
-          window.location = `https://job.wraeglobal.com/jobs?id=${jobdata.id}`;
+          window.location = `https://jobs.wraeglobal.com/job?id=${jobdata.id}`;
         }
       });
     },
