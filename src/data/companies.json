@@ -170,6 +170,16 @@
    "created_date": "2023-09-21 16:11:09"
  },
  {
+  "id": 129,
+  "name": "Equinity India Private Limited",
+  "domain_id": 1,
+  "created_by": "admin",
+  "updated_date": "2023-09-21 16:11:09",
+  "updated_by": "admin",
+  "active": true,
+  "created_date": "2023-09-21 16:11:09"
+ },
+ {
    "id": 105,
    "name": "Globiva Services Private Limited",
    "domain_id": 1,
