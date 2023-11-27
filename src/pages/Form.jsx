@@ -37,7 +37,9 @@ const Form = () => {
         confirmButtonText: "Visit The Job Page",
       }).then((result) => {
         if (result.isConfirmed) {
-          window.location = `https://job.wraeglobal.com/jobs?id=${jobdata.id}`;
+          let url = `https://jobs.wraeglobal.com/job?id=${jobdata.id}`;
+          window.open(url, '_blank');
+          // window.location = 
         }
       });
     },
