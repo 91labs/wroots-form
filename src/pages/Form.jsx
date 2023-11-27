@@ -6,10 +6,12 @@ import ReactQuill from "react-quill";
 import Swal from "sweetalert2/dist/sweetalert2.js";
 import { LoaderSpin } from "../components/Loader";
 import { createJob } from "../hooks/createjob";
-import skillData from "../data/skills.json";
-import companyData from "../data/companies.json";
+import { getLocations } from "../hooks/location";
+import { getCompanies } from "../hooks/companies";
+import { getSkills } from "../hooks/skill";
+
 import categoryData from "../data/category.json";
-import locationData from "../data/location.json";
+
 import "react-quill/dist/quill.snow.css";
 import "sweetalert2/src/sweetalert2.scss";
 
@@ -24,7 +26,7 @@ const Form = () => {
   const [selectedCategory, setSelectedCategory] = useState();
 
   const { mutate, isLoading } = useMutation(createJob, {
-    onSuccess: ({ data }) => { 
+    onSuccess: ({ data }) => {
       console.log(data);
       const jobdata = JSON.parse(data.data.body);
       Swal.fire({
@@ -40,6 +42,36 @@ const Form = () => {
       });
     },
     onError: () => toast.error("Some Error Occurred!"),
+  });
+
+  const skillMutation = useMutation(getSkills, {
+    onSuccess: ({ data }) =>
+      setSkillSet(
+        data.skills.map((cat) => ({
+          label: cat.name,
+          value: cat,
+        }))
+      ),
+  });
+
+  const companyMutation = useMutation(getCompanies, {
+    onSuccess: ({ data }) =>
+      setCompanySet(
+        data.companies.map((cat) => ({
+          label: cat.name,
+          value: cat,
+        }))
+      ),
+  });
+
+  const locationMutation = useMutation(getLocations, {
+    onSuccess: ({ data }) =>
+      setLocationSet(
+        data.locations.map((cat) => ({
+          label: cat.name,
+          value: cat,
+        }))
+      ),
   });
 
   const [formData, setFormData] = useState({
@@ -64,33 +96,16 @@ const Form = () => {
   });
 
   useEffect(() => {
-    const transformedSkillSet = skillData.map((skill) => ({
-      label: skill.name,
-      value: skill,
-    }));
-
-    const transformedCompanySet = companyData.map((company) => ({
-      label: company.name,
-      value: company,
-    }));
-
     const transformedCategorySet = categoryData.map((cat) => ({
       label: cat.name,
       value: cat,
     }));
 
-    const transformedLocationSet = locationData.map((loc) => ({
-      label: loc.name,
-      value: loc,
-    }));
-
-    setSkillSet(transformedSkillSet);
-
-    setCompanySet(transformedCompanySet);
-
     setCategorySet(transformedCategorySet);
 
-    setLocationSet(transformedLocationSet);
+    skillMutation.mutate();
+    companyMutation.mutate();
+    locationMutation.mutate();
   }, []);
 
   const resetForm = () => {
