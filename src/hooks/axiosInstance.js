@@ -1,5 +1,5 @@
 import axios from "axios"
 
 export const axiosInstance = axios.create({
-  baseURL: "https://api.wraeglobal.com"
+  baseURL: "https://wroots-backend.onrender.com"
 })
