@@ -37,7 +37,7 @@ const Form = () => {
         confirmButtonText: "Visit The Job Page",
       }).then((result) => {
         if (result.isConfirmed) {
-          let url = `https://jobs.wraeglobal.com/job?id=${jobdata.id}`;
+          let url = `https://jobs.wraeglobal.com/jobs?id=${jobdata.id}`;
           window.open(url, '_blank');
           // window.location = 
         }
